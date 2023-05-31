@@ -5,7 +5,7 @@
 
 # MM-Utilities
 
-Simple Bot for [MM Gamer discord server](https://discord.com/invite/ASr2B3ZZSY)
+Simple Bot for [KingDom Smp](https://discord.com/invite/ASr2B3ZZSY)
 
 # Features
 
